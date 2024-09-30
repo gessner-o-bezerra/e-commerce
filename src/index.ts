@@ -31,3 +31,6 @@ commentDataBase.push(comment2);
 
 product1.rate(5, user1);
 product2.rate(3, user2);
+
+console.log(product1.showDetails());
+console.log(product2.showDetails());
